@@ -1,1 +1,1 @@
-# Taller_ionic
+# Chat usando Ionic y FireBase
